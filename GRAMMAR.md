@@ -19,11 +19,11 @@ Adjectives are either male or (pseudo) female, opposite, for example:
 * Su = Wet
 * Suh = Dry
 
-Verbs are universal, and made past by -ed suffix. Future is defined by "vi" (will) before the verb.
+Verbs are universal. Future is defined by "vi" (will), and past by "vas" (was) before the verb.
 
 * I will speak = Mi vi zek
 * I speak = Mi zek
-* I spoke = Mi zeked
+* I spoke = Mi vas zek
 
 Plural (for everything) is just the word with -s suffix.
 
