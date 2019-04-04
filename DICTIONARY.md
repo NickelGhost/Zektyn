@@ -26,6 +26,7 @@
 * Kon = With
 * Eh = Not
 * Do = To
+* Tos = Also
 
 ###Nouns
 * Alazis = Analysis
